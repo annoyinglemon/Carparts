@@ -4,6 +4,7 @@ public class Person{
 
 	public Person(){
 	name = "No name yet";
+	age = 10;
 	}
 	public Person(String initialName){
 	name = initialName;
