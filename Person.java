@@ -5,7 +5,7 @@ public class Person{
 
 	public Person(){
 	name = "No name yet";
-	age = 0;
+	age = 5;
 	}
 	public Person(String initialName, int age){
 	this.name = initialName;
