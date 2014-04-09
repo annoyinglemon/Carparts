@@ -5,11 +5,9 @@ public class Person{
 
 	public Person(){
 	name = "No name yet";
-<<<<<<< HEAD
-	age = 5;
-=======
+
 	age = 10;
->>>>>>> master
+
 	}
 	public Person(String initialName, int age){
 	this.name = initialName;
@@ -27,6 +25,7 @@ public class Person{
 	public void writeOutput(){
 	System.out.println("Name: " + this.name);
 	System.out.println("Age: " + this.age);
+	System.out.print("Final phase");
 	}
 	public boolean samePerson(Person otherPerson){
 	return(this.name.equalsIgnoreCase(otherPerson.name) && this.age==otherperson.age);
