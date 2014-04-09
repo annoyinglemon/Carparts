@@ -2,6 +2,7 @@ class GalToLit{
 	public static void main(String args[]){
 	double gallons;
 	double liters;
+	int shit = 14;
 
 
 	gallons = 955500;
