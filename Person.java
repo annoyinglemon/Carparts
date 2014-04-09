@@ -5,7 +5,11 @@ public class Person{
 
 	public Person(){
 	name = "No name yet";
+<<<<<<< HEAD
 	age = 5;
+=======
+	age = 10;
+>>>>>>> master
 	}
 	public Person(String initialName, int age){
 	this.name = initialName;
