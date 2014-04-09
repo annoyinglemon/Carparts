@@ -3,7 +3,7 @@ class GalToLit{
 	double gallons;
 	double liters;
 
-	gallons = 700;
+	gallons = 855500;
 	liters = gallons * 3.7854;
 	System.out.println(gallons + " gallons is equal to " + liters + " liters");
 	System.out.print("Done converting!";
