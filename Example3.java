@@ -5,7 +5,7 @@ class Example3{
 	
 	var = 20;
 	var2 = 20;
-	var3 = 40;
+	
 	
 	System.out.println("variable var is equal to " + var);
 	System.out.println("while var2 is equal to " + var2);
