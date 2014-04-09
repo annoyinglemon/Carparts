@@ -11,7 +11,7 @@ class ScannerDemo{
 	System.out.println();
 	System.out.print("How many shits you did?: ");
 	x = Shit.nextInt();
-	System.out.println("Well that's good!");
+	System.out.println("Well that's bad!");
 	}
 	}
 	
